@@ -76,28 +76,28 @@ body {
 
   #soul {
       position: absolute;
-      bottom: 25px;
-      right: 25px;
+      bottom: 0px;
+      right: 0px;
       z-index: 6;
   }
 
   #reality {
       position: absolute;
       bottom: 150px;
-      right: 25px;
+      right: 0px;
       z-index: 8;
   }
 
   #mind {
       position: fixed;
-      right: 25px;
+      right: 0px;
       z-index: 5;
   }
 
   #time {
       position: fixed;
-      right: 25px;
-      top: 5px;
+      right: 0px;
+      top: 0px;
       z-index: 7;
     }
 
